@@ -1,6 +1,6 @@
 baseURL: https://impresion3dresina.netlify.app/
 languageCode: en
-title: Hargo | Hugo Ecommerce Site
+title: Impresion 3D resina | Hugo Ecommerce Site
 theme: hargo-hugo-ecommerce-theme
 summaryLength: '20'
 paginate: 10
